@@ -13,7 +13,7 @@
 Note:- Ensure that Python3 installed
 
 1) Create the env file  RUN `mv env .env`
-2) Fill in the google reCaptcha public and private key
+2) Fill in the google reCaptcha public and private key (Please ensure that you are using v2)
 3) RUN `pip3 install -r requirements.txt` 
 4) RUN `pythton3 app.py`
 5) go to http://0.0.0.0:5000/register
